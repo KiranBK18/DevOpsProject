@@ -10,7 +10,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: 'https://github.com/<your-username>/<your-repo>'
+    repoURL: 'https://github.com/KiranBK18/DevOpsProject/blob/main/app.yaml'
     targetRevision: HEAD
     path: sample-app
   syncPolicy:
