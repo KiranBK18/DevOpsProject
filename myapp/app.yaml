@@ -12,7 +12,7 @@ spec:
   source:
     repoURL: 'https://github.com/KiranBK18/DevOpsProject'
     targetRevision: HEAD
-    path: sample-app
+    path: myapp
   syncPolicy:
     automated:
       prune: true
