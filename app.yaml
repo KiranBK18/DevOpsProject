@@ -12,7 +12,7 @@ spec:
   source:
     repoURL: 'https://github.com/KiranBK18/DevOpsProject/blob/main/app.yaml'
     targetRevision: HEAD
-    path: sample-app
+    path: DevOpsProject
   syncPolicy:
     automated:
       prune: true
